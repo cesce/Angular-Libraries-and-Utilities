@@ -1,7 +1,9 @@
 # Angular Libraries
 > A list of libraries and other utilities
 
-- [Heading](#heading)
+<!-- toc -->
+
+- [Complete UI Framework](#Complete UI Framework)
   * [Sub-heading](#sub-heading)
     + [Sub-sub-heading](#sub-sub-heading)
 - [Heading](#heading-1)
@@ -11,13 +13,8 @@
   * [Sub-heading](#sub-heading-2)
     + [Sub-sub-heading](#sub-sub-heading-2)
 
-# Heading levels
 
-> This is a fixture to test heading levels
-
-<!-- toc -->
-
-## Heading
+## Complete UI Framework
 
 This is an h1 heading
 
