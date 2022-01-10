@@ -1,9 +1,7 @@
 # Angular Libraries
 > A list of libraries and other utilities
 
-<!-- toc -->
-
-- [Complete UI Framework](#Complete UI Framework)
+- [Complete UI Framework](##Complete%20UI%20Framework)
   * [Sub-heading](#sub-heading)
     + [Sub-sub-heading](#sub-sub-heading)
 - [Heading](#heading-1)
@@ -13,6 +11,7 @@
   * [Sub-heading](#sub-heading-2)
     + [Sub-sub-heading](#sub-sub-heading-2)
 
+<!-- toc -->
 
 ## Complete UI Framework
 
